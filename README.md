@@ -1,0 +1,2 @@
+# home_credit_default_risk
+kaggleのhome credit default riskのデータを使った新事業戦略
